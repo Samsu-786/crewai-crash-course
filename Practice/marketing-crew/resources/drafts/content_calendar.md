@@ -1,0 +1,16 @@
+# Content Calendar: AI-Powered Excel Automation Tool for SMEs (Week of 2025-08-09)
+
+| Date       | Time  | Platform   | Topic                                                              | Format      | Key Themes/Campaigns                                  | Notes                                         |
+|------------|-------|------------|--------------------------------------------------------------------|-------------|-------------------------------------------------------|-----------------------------------------------|
+| 2025-08-09 | Morning | LinkedIn   | Launch Announcement                                                  | Social Post | Product Launch, Awareness                             | Link to landing page                          |
+| 2025-08-10 | -     | -          | Film Reel 1                                                        | Reel        | Demo, Automation                                      | Data cleaning/formatting demo                 |
+| 2025-08-11 | Morning | LinkedIn/FB | Automate Tedious Excel Tasks in Seconds with Our AI Tool            | Reel        | Demo, Automation, Time Saving                           | Link to landing page, ask for user challenges |
+| 2025-08-11 | -     | -          | NA                                                                 | NA          | NA                                                      | Share Reel 1                                  |
+| 2025-08-12 | Morning | Blog       | Revolutionizing Excel: How AI Automation is Transforming Data Analysis | Blog Post   | AI in Excel, Automation, Data Analysis, Productivity | Link to landing page                          |
+| 2025-08-12 | Afternoon | Twitter    | Time Savings with AI Tool                                            | Social Post | Data Analysis, Time Saving, AI                        | Link to blog post 1                          |
+| 2025-08-12 | -     | -          | Film Reel 2                                                        | Reel        | Predictive Analytics                                  | Generate predictive insights from Excel data |
+| 2025-08-13 | Morning | LinkedIn/FB | Unlock the Power of Predictive Analytics in Excel with AI            | Reel        | Predictive Analytics                                  | Visually appealing demo                       |
+| 2025-08-14 | Morning | Blog       | Top 5 Use Cases for AI-Powered Excel Automation in Finance         | Blog Post   | AI, Excel, Finance, Automation, Use Cases              | Financial modeling, forecasting, reporting      |
+| 2025-08-14 | Afternoon | LinkedIn   | Promote "Top 5 Use Cases" Blog                                      | Social Post | AI, Excel, Finance, Automation, Free Trial             | Encourage free trial downloads                |
+| 2025-08-16 | Morning | Blog       | Beyond Formulas: Unlocking Hidden Insights with AI in Excel          | Blog Post   | Predictive Analytics, Trend Analysis, Anomaly Detection | Advanced capabilities of tool                 |
+| 2025-08-16 | Afternoon | Twitter    | Promote "Unlocking Hidden Insights" Blog                            | Social Post | AI, Excel, Data Analysis, Predictive Analytics        | Highlight key feature of the tool             |
