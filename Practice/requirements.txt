@@ -1,0 +1,12 @@
+pandas
+python-dotenv
+numpy
+crewai
+ipykernel
+scikit-learn
+ipywidgets
+crewai[tools]
+crewai[visualization]
+google-generativeai
+ollama
+docx2txt
